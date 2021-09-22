@@ -15,8 +15,8 @@ own business and provide them a platform to reach larger customer base.
 ❖ Language Localization in-app and Direct Calling option and contact us through email and phone (Same as customer side)<br />
 
 ### Insights
-<!-- ![1](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/1.PNG)
-![2](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/2.PNG) -->
+![1](https://github.com/vidhan7337/Mobi-Tiffin-Seller/blob/master/assets/1.PNG)
+![2](https://github.com/vidhan7337/Mobi-Tiffin-Seller/blob/master/assets/2.PNG)
 
 
 
